@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: inherit;
+  color: #1EE4E5;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #1EA7E5;
   text-decoration: underline;
 }
 
